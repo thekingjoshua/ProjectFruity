@@ -1,0 +1,133 @@
+* {
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+/* Styling for the nav-bar (-Start-) */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    padding: 17px 17px;
+    font-family: Arial;
+    font-weight: 100;
+    font-size: smaller;
+}
+
+/* Styling for the nav-bar (-End-) */
+
+/* Styling for 'Fruity' text @ top left */
+.l1 {
+    text-align: left;
+    padding-right: 260px;
+    padding-left: 55px;
+    color: orangered;
+    font-family: Arial Black;
+    font-size: larger;
+}
+
+/* Styling for nav-bar links (-Start-) */
+
+.l2 {
+    padding-right: 40px;
+}
+
+.l3 {
+    padding-right: 40px;
+}
+
+.l5 {
+    padding-right: 550px;
+}
+
+#l6 {
+    position: relative;
+    color: orangered;
+    font-size: xx-large;
+}
+
+/* Styling for nav-bar links (-End-) */
+.left{
+    height: 400px;
+    width: 350px;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 0 15px  gray;
+    margin-top: 60px;
+    position: relative;
+    bottom: -0px;
+    left: 00px;
+}
+.middle{
+    height: 450px;
+    width: 350px;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 0 15px  gray;
+    margin-top: 60px;
+    position: relative;
+    bottom: 570px;
+    left: 430px;
+}
+.right{
+    height: 400px;
+    width: 350px;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px  gray;
+    margin-top: 60px;
+    position: relative;
+    bottom: 1130px;
+    left: 860px;
+}
+p{
+    width: 250px;
+    text-align: center;
+    padding-left: 30px;
+    font-family: Arial;
+    font-size: small;
+}
+img{
+    width: 40px;
+    height: 50px;
+    border-radius: 50%;
+    position: relative;
+    top: -25px;
+    left: 150px;
+}
+i{
+    color: orangered;
+}
+#star1{
+    position: relative;
+    left: 130px;
+    padding-top: 30px;
+}
+#star2{
+    position: relative;
+    left: 130px;
+    padding-top: 30px;
+}
+#star3{
+    position: relative;
+    left: 130px;
+    padding-top: 30px;
+}
+span{
+    font-family: Arial;
+    font-weight:bolder;
+    text-align: center;
+    padding-left: 50px;
+    padding-bottom: 20px;
+}

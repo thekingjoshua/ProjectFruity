@@ -1,0 +1,83 @@
+*{
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+/* Styling for background image */
+img{
+    width: 100%;
+    height: 100%;
+    background-attachment: fixed;
+}
+/* Styling for the nav-bar (-Start-) */
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    padding: 17px 17px;
+    font-family: Arial;
+    font-weight: 100;
+    font-size: smaller;
+}
+/* Styling for the nav-bar (-End-) */
+
+/* Styling for 'Fruity' text @ top left */
+.l1{
+    text-align: left;
+    padding-right: 260px;
+    padding-left: 55px;
+    color: orangered;
+    font-family: Arial Black;
+    font-size: larger;
+}
+/* Styling for nav-bar links (-Start-) */
+
+.l2{
+    padding-right: 40px;
+}
+.l3{
+    padding-right: 40px;
+}
+.l5{
+    padding-right: 550px;
+}
+#l6{
+    position: relative;
+    color: orangered;
+    font-size: xx-large;
+}
+/* Styling for nav-bar links (-End-) */
+
+/* Styling for 'Fresh Fruits and Dummy text position' */
+div{
+    position: relative;
+    top: -1000px;
+    padding: 40px;
+    font-family: Arial;
+    color: orangered;
+}
+h2{
+    font-size: 60px;
+    font-weight: bolder;
+}
+p{
+    color: black;
+    width: 850px;
+    font-weight: lighter;
+}
+button{
+    border: 1px solid orangered;
+    border-radius: 20px;
+    width: 130px;
+    padding: 10px;
+    font-size: smaller;
+}
